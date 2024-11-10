@@ -29,3 +29,5 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+<small>Image of Ceaseless expansion (https://x.com/ben_heathstone/status/1844856123297247321) By Ben Hearthstone  / Inspiration overall taken from card in Hearthstone game</small>
